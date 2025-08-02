@@ -9,12 +9,14 @@ Solved leetcode solutions.
 | [0001-two-sum](https://github.com/Reeja20040923/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Reeja20040923/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/Reeja20040923/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Reeja20040923/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +31,7 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
