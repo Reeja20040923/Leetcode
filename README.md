@@ -18,6 +18,7 @@ Solved leetcode solutions.
 | [0001-two-sum](https://github.com/Reeja20040923/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Solved leetcode solutions.
 | ------- |
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -41,4 +43,12 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
