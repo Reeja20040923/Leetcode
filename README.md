@@ -58,6 +58,7 @@ Solved leetcode solutions.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Reeja20040923/Leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
