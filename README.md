@@ -20,6 +20,7 @@ Solved leetcode solutions.
 | [0628-maximum-product-of-three-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Reeja20040923/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/Reeja20040923/Leetcode/tree/master/1168-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,5 @@ Solved leetcode solutions.
 | [0018-4sum](https://github.com/Reeja20040923/Leetcode/tree/master/0018-4sum) |
 | [0283-move-zeroes](https://github.com/Reeja20040923/Leetcode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/Reeja20040923/Leetcode/tree/master/1168-duplicate-zeros) |
 <!---LeetCode Topics End-->
