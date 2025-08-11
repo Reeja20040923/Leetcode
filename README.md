@@ -58,6 +58,7 @@ Solved leetcode solutions.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -78,4 +79,12 @@ Solved leetcode solutions.
 | [0283-move-zeroes](https://github.com/Reeja20040923/Leetcode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Reeja20040923/Leetcode/tree/master/1168-duplicate-zeros) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
