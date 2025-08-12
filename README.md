@@ -19,6 +19,7 @@ Solved leetcode solutions.
 | [0414-third-maximum-number](https://github.com/Reeja20040923/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Reeja20040923/Leetcode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/Reeja20040923/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1019-squares-of-a-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Reeja20040923/Leetcode/tree/master/1168-duplicate-zeros) |
 ## Hash Table
@@ -61,6 +62,7 @@ Solved leetcode solutions.
 | [0002-add-two-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0830-largest-triangle-area](https://github.com/Reeja20040923/Leetcode/tree/master/0830-largest-triangle-area) |
 ## String
 |  |
 | ------- |
@@ -87,4 +89,8 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0002-add-two-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Reeja20040923/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
