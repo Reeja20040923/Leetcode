@@ -22,6 +22,7 @@ Solved leetcode solutions.
 | [0830-largest-triangle-area](https://github.com/Reeja20040923/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1019-squares-of-a-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Reeja20040923/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1319-unique-number-of-occurrences](https://github.com/Reeja20040923/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Solved leetcode solutions.
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/Reeja20040923/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
