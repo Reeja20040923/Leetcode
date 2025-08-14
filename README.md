@@ -62,6 +62,7 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Reeja20040923/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Reeja20040923/Leetcode/tree/master/0830-largest-triangle-area) |
