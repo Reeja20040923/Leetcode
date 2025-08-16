@@ -66,6 +66,7 @@ Solved leetcode solutions.
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Reeja20040923/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1448-maximum-69-number](https://github.com/Reeja20040923/Leetcode/tree/master/1448-maximum-69-number) |
 ## String
 |  |
 | ------- |
@@ -98,4 +99,8 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Reeja20040923/Leetcode/tree/master/0830-largest-triangle-area) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Reeja20040923/Leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
