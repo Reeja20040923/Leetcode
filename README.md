@@ -29,6 +29,7 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Reeja20040923/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Reeja20040923/Leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
@@ -65,6 +66,7 @@ Solved leetcode solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Reeja20040923/Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Reeja20040923/Leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Reeja20040923/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -72,6 +74,7 @@ Solved leetcode solutions.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Reeja20040923/Leetcode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Reeja20040923/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Reeja20040923/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
