@@ -31,6 +31,7 @@ Solved leetcode solutions.
 | [0001-two-sum](https://github.com/Reeja20040923/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Reeja20040923/Leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Reeja20040923/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Reeja20040923/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -68,6 +69,7 @@ Solved leetcode solutions.
 | [0007-reverse-integer](https://github.com/Reeja20040923/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Reeja20040923/Leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Reeja20040923/Leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Reeja20040923/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1448-maximum-69-number](https://github.com/Reeja20040923/Leetcode/tree/master/1448-maximum-69-number) |
@@ -90,6 +92,7 @@ Solved leetcode solutions.
 | [0018-4sum](https://github.com/Reeja20040923/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Reeja20040923/Leetcode/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/Reeja20040923/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Reeja20040923/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Reeja20040923/Leetcode/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
