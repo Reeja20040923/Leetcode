@@ -68,6 +68,7 @@ Solved leetcode solutions.
 | [0002-add-two-numbers](https://github.com/Reeja20040923/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Reeja20040923/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Reeja20040923/Leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Reeja20040923/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Reeja20040923/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Reeja20040923/Leetcode/tree/master/0202-happy-number) |
@@ -85,6 +86,7 @@ Solved leetcode solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Reeja20040923/Leetcode/tree/master/0029-divide-two-integers) |
 | [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
