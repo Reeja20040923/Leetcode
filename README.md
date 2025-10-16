@@ -83,6 +83,7 @@ Solved leetcode solutions.
 | [0168-excel-sheet-column-title](https://github.com/Reeja20040923/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Reeja20040923/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
+| [0812-rotate-string](https://github.com/Reeja20040923/Leetcode/tree/master/0812-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,4 +120,8 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Reeja20040923/Leetcode/tree/master/1448-maximum-69-number) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Reeja20040923/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
