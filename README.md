@@ -14,6 +14,7 @@ Solved leetcode solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Reeja20040923/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Reeja20040923/Leetcode/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@ Solved leetcode solutions.
 | [0001-two-sum](https://github.com/Reeja20040923/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Reeja20040923/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Reeja20040923/Leetcode/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Reeja20040923/Leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Reeja20040923/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
@@ -130,4 +132,12 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Reeja20040923/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Reeja20040923/Leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Reeja20040923/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
