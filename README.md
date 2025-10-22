@@ -14,6 +14,7 @@ Solved leetcode solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Reeja20040923/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Reeja20040923/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Reeja20040923/Leetcode/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Reeja20040923/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ Solved leetcode solutions.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Reeja20040923/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Reeja20040923/Leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Reeja20040923/Leetcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
