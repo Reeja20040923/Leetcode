@@ -28,6 +28,7 @@ Solved leetcode solutions.
 | [1019-squares-of-a-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Reeja20040923/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/Reeja20040923/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Reeja20040923/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,4 +148,12 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Reeja20040923/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Reeja20040923/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Reeja20040923/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
