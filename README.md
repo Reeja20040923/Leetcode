@@ -18,6 +18,7 @@ Solved leetcode solutions.
 | [0037-sudoku-solver](https://github.com/Reeja20040923/Leetcode/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Reeja20040923/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Reeja20040923/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Reeja20040923/Leetcode/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Reeja20040923/Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Reeja20040923/Leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
