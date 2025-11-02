@@ -93,6 +93,7 @@ Solved leetcode solutions.
 | [0344-reverse-string](https://github.com/Reeja20040923/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Reeja20040923/Leetcode/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/Reeja20040923/Leetcode/tree/master/0812-rotate-string) |
+| [1205-defanging-an-ip-address](https://github.com/Reeja20040923/Leetcode/tree/master/1205-defanging-an-ip-address) |
 ## Bit Manipulation
 |  |
 | ------- |
