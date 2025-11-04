@@ -49,6 +49,7 @@ Solved leetcode solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Reeja20040923/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Reeja20040923/Leetcode/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/Reeja20040923/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Reeja20040923/Leetcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -161,4 +162,8 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Reeja20040923/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Reeja20040923/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
