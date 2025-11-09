@@ -81,6 +81,7 @@ Solved leetcode solutions.
 | [0007-reverse-integer](https://github.com/Reeja20040923/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Reeja20040923/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Reeja20040923/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Reeja20040923/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Reeja20040923/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Reeja20040923/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -93,6 +94,7 @@ Solved leetcode solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Reeja20040923/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Reeja20040923/Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Reeja20040923/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Reeja20040923/Leetcode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Reeja20040923/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Reeja20040923/Leetcode/tree/master/0344-reverse-string) |
@@ -162,6 +164,7 @@ Solved leetcode solutions.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Reeja20040923/Leetcode/tree/master/0043-multiply-strings) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Reeja20040923/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Prefix Sum
 |  |
