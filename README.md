@@ -16,6 +16,7 @@ Solved leetcode solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Reeja20040923/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Reeja20040923/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Reeja20040923/Leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Reeja20040923/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Reeja20040923/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Reeja20040923/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -157,6 +158,7 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Reeja20040923/Leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Reeja20040923/Leetcode/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Reeja20040923/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Reeja20040923/Leetcode/tree/master/0054-spiral-matrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Reeja20040923/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Prefix Sum
 |  |
