@@ -96,6 +96,7 @@ Solved leetcode solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Reeja20040923/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Reeja20040923/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Reeja20040923/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Reeja20040923/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Reeja20040923/Leetcode/tree/master/0058-length-of-last-word) |
@@ -113,6 +114,7 @@ Solved leetcode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Reeja20040923/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Reeja20040923/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Reeja20040923/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Reeja20040923/Leetcode/tree/master/0018-4sum) |
@@ -164,6 +166,7 @@ Solved leetcode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Reeja20040923/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Reeja20040923/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
