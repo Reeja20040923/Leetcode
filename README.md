@@ -17,6 +17,7 @@ Solved leetcode solutions.
 | [0035-search-insert-position](https://github.com/Reeja20040923/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Reeja20040923/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Reeja20040923/Leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Reeja20040923/Leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Reeja20040923/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Reeja20040923/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Reeja20040923/Leetcode/tree/master/0075-sort-colors) |
@@ -41,6 +42,7 @@ Solved leetcode solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Reeja20040923/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Reeja20040923/Leetcode/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Reeja20040923/Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Reeja20040923/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Reeja20040923/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Reeja20040923/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Reeja20040923/Leetcode/tree/master/0217-contains-duplicate) |
