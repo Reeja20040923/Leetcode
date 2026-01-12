@@ -16,7 +16,7 @@ class Solution:
 
                     square_id = i//3*3+j//3
                     squares[square_id].add(num)
-
+#defining backtracking
         def backTrack(i,j):
             nonlocal solved
             if i==9:
